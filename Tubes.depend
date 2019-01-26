@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1489759083 source:d:\01000100 01000001 01000110 01000110 01000001\asd\latihan\tubes\main.cpp
+	<iostream>
+	"tubes.h"
+
+1489758286 source:d:\01000100 01000001 01000110 01000110 01000001\asd\latihan\tubes\tubess.cpp
+	"tubes.h"
+
+1489509604 d:\01000100 01000001 01000110 01000110 01000001\asd\latihan\tubes\tubes.h
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+
+1490975438 source:e:\hayo apa hayo\tubes\main.cpp
+	<iostream>
+	"tubes.h"
+
+1490975468 e:\hayo apa hayo\tubes\tubes.h
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+
+1490974397 source:e:\hayo apa hayo\tubes\tubess.cpp
+	"tubes.h"
+
+1490974397 source:d:\tubes\tubess.cpp
+	"tubes.h"
+
+1490975468 d:\tubes\tubes.h
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+
+1491101847 source:d:\tubes\main.cpp
+	<iostream>
+	"tubes.h"
+
